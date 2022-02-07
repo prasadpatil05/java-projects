@@ -2,7 +2,7 @@ package currencyConverter;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-
+//currency converter
 public class Currency {
 	private String name;
 	private String shortName;
@@ -14,7 +14,7 @@ public class Currency {
 		this.shortName = shortNameValue;
 	}
 	
-	// Getter for name
+	// Getter for name   
 	public String getName() {
 		return this.name;
 	}
